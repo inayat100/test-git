@@ -5,7 +5,7 @@ def on_barcode_scanned(e):
     process_barcode(barcode_data)
 
 def process_barcode(barcode_data):
-    # Implement your logic to handle the scanned barcode data
+    # Implement your logic to handle the scanned barcode data test
     print("Scanned barcode:", barcode_data)
 
 # Register the callback function for key events
