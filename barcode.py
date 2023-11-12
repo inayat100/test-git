@@ -12,4 +12,6 @@ def process_barcode(barcode_data):
 keyboard.hook(on_barcode_scanned)
 
 # Keep the script running
-keyboard.wait('esc') 
+keyboard.wait('esc')
+
+print("this is kamran")
